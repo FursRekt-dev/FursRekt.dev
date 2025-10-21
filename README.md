@@ -37,6 +37,12 @@ Projekt ni škodoželen, temveč služi kot:
 
 Vabimo vse državljane, da se pridružijo projektu, razmislijo o zakonodaji in prispevajo k odprti razpravi o prihodnosti kriptovalut v Sloveniji.
 
+## Token info:
+
+Ime: Furs Rekt
+Ticker: $FURS
+Supply: 2.126.000.000.000 $FURS
+Chain: Solana
 
 
 # Kritične pomanjkljivosti zakona in sistema poročanja
