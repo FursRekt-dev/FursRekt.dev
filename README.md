@@ -1,12 +1,12 @@
 
 
-## Manifest projekta Furst Rekt ($FURS)
+# Manifest projekta Furst Rekt ($FURS)
 
 Izobraževalni eksperiment o obdavčitvi kriptovalut v Republiki Sloveniji
 Namen projekta:
 Projekt Furst Rekt je zasnovan kot satirični, izobraževalni in eksperimentalni odziv na aktualno zakonodajo o obdavčitvi kriptovalut v Sloveniji. Cilj projekta je izpostaviti kompleksnost, nepraktičnost in morebitne nelogičnosti zakonskih določil na način, ki je zabaven, kritičen in hkrati poučen.
 
-# Opis projekta:
+## Opis projekta:
 •	Ustvarjen bo kriptožeton z imenom Furst Rekt, valutni simbol $FURS.
 •	Skupna zaloga bo tako visoka, da bo vsak državljan Republike Slovenije upravičen do 1.000.000 enot žetona $FURS.
 •	Distribucija bo brezplačna in namenjena izključno za izobraževalne namene.
@@ -25,8 +25,8 @@ Vabimo vse državljane, da se pridružijo projektu, razmislijo o zakonodaji in p
 
 
 
+## Kritične pomanjkljivosti zakona in sistema poročanja
 
-# Kritične pomanjkljivosti zakona in sistema poročanja
 1. Kaznovalna narava zakona
 •	Če zavezanec ne prijavi kriptopremoženja do roka, bo obdavčen na celotno razliko, ne le na dobiček po 1. 1. 2026.
 •	To pomeni, da se lahko obdavči tudi zgodovinski dobiček, kar je neustavno in v nasprotju z načelom pravičnosti. 
@@ -43,7 +43,7 @@ Vabimo vse državljane, da se pridružijo projektu, razmislijo o zakonodaji in p
 6. Nejasnosti glede izgube in kraje
 •	Po trenutnem predlogu bi bil tudi prenos zaradi kraje obravnavan kot odsvojitev in obdavčen, kar je nelogično in nepravično. 
 ________________________________________
-# Primerjava z drugimi državami
+## Primerjava z drugimi državami
 Država	Davčna stopnja	Opombe
 Slovenija	25 %	Enotna stopnja, brez oprostitve
 Nemčija	0 %	Če je lastništvo > 1 leto
