@@ -39,10 +39,12 @@ Vabimo vse državljane, da se pridružijo projektu, razmislijo o zakonodaji in p
 
 ## Token info:
 
-Ime: Furs Rekt
-Ticker: $FURS
-Supply: 2.126.000.000.000 $FURS
-Chain: Solana
+- Ime: Furs Rekt
+- Ticker: $FURS
+- Supply: 2.126.000.000.000 $FURS
+- Chain: Solana
+- Token ID/CA: FSKsxXEDhzFUemF5w1bMNCM2haZbuuj6S9bZY3vKrfnj
+- Mint signature: 3SPxEJcLiszfEDpc3nXsNwfiZpNsPwJBkmVQxnfgB1KFR7TaTzWHDdMTTmMyY2cs3SEAu3Spgirgxu5sfvLZ8jbv
 
 
 # Kritične pomanjkljivosti zakona in sistema poročanja
