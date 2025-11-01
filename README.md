@@ -8,7 +8,7 @@ Projekt Furst Rekt je zasnovan kot satirični, izobraževalni in eksperimentalni
 
 ## Opis projekta:
 
-•	Ustvarjen bo kriptožeton z imenom Furst Rekt, valutni simbol $FURS.
+•	Ustvarjen je kriptožeton z imenom Furst Rekt, valutni simbol $FURS.
 
 •	Skupna zaloga bo tako visoka, da bo vsak državljan Republike Slovenije upravičen do 1.000.000 enot žetona $FURS.
 
@@ -44,6 +44,7 @@ Vabimo vse državljane, da se pridružijo projektu, razmislijo o zakonodaji in p
 - Supply: 2.126.000.000.000 $FURS
 - Chain: Solana
 - Token ID/CA: FSKsxXEDhzFUemF5w1bMNCM2haZbuuj6S9bZY3vKrfnj
+- Solscan: https://solscan.io/token/FSKsxXEDhzFUemF5w1bMNCM2haZbuuj6S9bZY3vKrfnj
 - Mint signature: 3SPxEJcLiszfEDpc3nXsNwfiZpNsPwJBkmVQxnfgB1KFR7TaTzWHDdMTTmMyY2cs3SEAu3Spgirgxu5sfvLZ8jbv
 
 
