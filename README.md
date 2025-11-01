@@ -1,5 +1,3 @@
-
-
 # Manifest projekta Furst Rekt ($FURS)
 
 Izobraževalni eksperiment o obdavčitvi kriptovalut v Republiki Sloveniji
@@ -36,6 +34,12 @@ Projekt ni škodoželen, temveč služi kot:
 ## Poziv k sodelovanju:
 
 Vabimo vse državljane, da se pridružijo projektu, razmislijo o zakonodaji in prispevajo k odprti razpravi o prihodnosti kriptovalut v Sloveniji.
+
+- V kolikor nam želite kaj sporočiti?
+- Email: furs@tuta.io
+- Secure note: https://privnote.com/#
+- Telegram group: https://t.me/FursRektGroup
+- Telegram channel: https://t.me/FURSREKT
 
 ## Token info:
 
