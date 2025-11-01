@@ -51,6 +51,13 @@ Vabimo vse državljane, da se pridružijo projektu, razmislijo o zakonodaji in p
 - Solscan: https://solscan.io/token/FSKsxXEDhzFUemF5w1bMNCM2haZbuuj6S9bZY3vKrfnj
 - Mint signature: 3SPxEJcLiszfEDpc3nXsNwfiZpNsPwJBkmVQxnfgB1KFR7TaTzWHDdMTTmMyY2cs3SEAu3Spgirgxu5sfvLZ8jbv
 
+## Distribucija
+
+Za prejem FURS žetona potrebujete Solana denarnico: https://solana.com/solana-wallets
+Primer veljavnega naslova Solana denarnice: FtB3k8cAzRUkuBSJnccz876sYg94Bhdy43w13ZpJE8Pv
+
+- Za prejem FURS žetona nam morate posredovati vaš Solana wallet naslov na enega od načinov navedenih tu : https://fursrekt.dev/#poziv-k-sodelovanju
+
 
 # Kritične pomanjkljivosti zakona in sistema poročanja
 
